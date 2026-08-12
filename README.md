@@ -2,12 +2,12 @@
 
 Sou estudante de Técnico em Informática e venho construindo minha base em desenvolvimento de software através de estudos e projetos práticos.
 
-Durante o curso tive contato com diferentes áreas da TI, como hardware, redes, programação e banco de dados. Ao longo desse processo, desenvolvi uma base em **JavaScript**, e atualmente estou focado principalmente em **Java** e **MySQL**, aprofundando meus conhecimentos em programação orientada a objetos e bancos de dados relacionais.
+Durante o curso tive contato com diferentes áreas da TI, como hardware, redes, programação e banco de dados. Ao longo desse processo, atualmente estou focado principalmente em **Java** e **MySQL**, aprofundando meus conhecimentos em programação orientada a objetos e bancos de dados relacionais.
 
 ### Tecnologias que venho estudando
 
-- Java e Programação Orientada a Objetos
-- JavaScript (fundamentos e prática)
+- Java 
+- JavaScript
 - MySQL e modelagem de banco de dados
 - Git e GitHub
 - Desenvolvimento de software
