@@ -8,7 +8,7 @@ Durante o curso tive contato com diferentes áreas da TI, como hardware, redes, 
 
 - Java 
 - JavaScript
-- MySQL e modelagem de banco de dados
+- MySQL 
 - Git e GitHub
 - Desenvolvimento de software
 
