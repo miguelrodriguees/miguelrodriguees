@@ -18,6 +18,3 @@ Durante o curso tive contato com diferentes áreas da TI, como hardware, redes, 
 - **Java Learning Labs** — exercícios e códigos desenvolvidos durante meus estudos de Java.
 - **MySQL Learning Labs** — práticas de SQL, criação de bancos e consultas.
 
----
-
-Meu foco é evoluir de forma consistente, aplicando o que aprendo em projetos reais e consolidando uma base sólida em desenvolvimento de software.
